@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 
 ###
 
+<br clear="both">
+
 <h2 align="left">About me 🤔</h2>
 
 ###
+
+<br clear="both">
 
 <h4 align="left">My name is Mohammad Nahrowi Setiawan<br>  📍 I'm from Indonesia 🙏🗿<br>  📚 Currently learning Python & Javascript<br>  🎯 Goal: make games & websites<br>You always Will Need Coffee ☕🗿</h4>
 
