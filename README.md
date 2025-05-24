@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![miya](img/miyabi.png)
+![pgr](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkybGwwc2psbnpmMHdxc3I2N3Y0Zm04NzRuY2VtZjY1dHRhYW14dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kl1vqKpW267DZTUUC5/giphy.gif)
 
 <h1 align="left">Hello Guys!👋</h1>
 
@@ -49,13 +49,13 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNT
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="[python logo]" (https://www.python.org/)  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="[python logo]"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="[pycharm logo]" (https://www.jetbrains.com/pycharm/)  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="[pycharm logo]"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="[javascript logo]" (https://www.javascript.com/)  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="[javascript logo]"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="[godot logo]" (https://godotengine.org/)  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="[godot logo]"/>
 </div>
 
 ###
@@ -74,6 +74,18 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNT
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
 </div>
+
+###
+
+<h2 align="left">Link 📍</h2>
+
+###
+
+<h4 align="left">
+<h4>Instagram:
+<br>Youtube:
+<br>Itch:
+<br>Discord:
 
 ###
 
