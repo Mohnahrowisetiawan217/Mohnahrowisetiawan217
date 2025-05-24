@@ -103,20 +103,6 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNT
 
 ###
 
-<h3 align="left">Play Games!!</h3>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohnahrowisetiawan217/Mohnahrowisetiawan217/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohnahrowisetiawan217/Mohnahrowisetiawan217/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohnahrowisetiawan217/Mohnahrowisetiawan217/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohnahrowisetiawan217.Mohnahrowisetiawan217&left_color=black"  />
 </div>
