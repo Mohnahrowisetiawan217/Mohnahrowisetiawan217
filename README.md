@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![welcome](https://giphy.com/gifs/kl1vqKpW267DZTUUC5)
-
-
 <h1 align="left">WELCOME </h1>
 
 ![welcome](https://giphy.com/gifs/kl1vqKpW267DZTUUC5)
