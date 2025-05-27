@@ -1,5 +1,6 @@
 
 
+
 <!--
 **Mohnahrowisetiawan217/Mohnahrowisetiawan217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="left">WELCOME </h1>
 
 <img
-src="https://giphy.com/gifs/kl1vqKpW267DZTUUC5"/>
+src="https://media0.giphy.com/media/kl1vqKpW267DZTUUC5/giphy.gif?cid=6c09b952wq5jjnparsk5uhw1pzcq28jcrab6p6ljxnlkb46b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 
 <h2 align="left">Hello Guys!👋</h2>
 
