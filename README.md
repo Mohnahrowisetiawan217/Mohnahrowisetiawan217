@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">WELCOME </h1>
 
-<img
-src="https://media0.giphy.com/media/1CkhOe40YyPFJQq3m1/giphy.gif?cid=6c09b9526n848ndlb69cxnyoyxm3lbtbax8qm341a6ikjqhy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+![welcome](https://media3.giphy.com/media/REa6cKXyPOkEsfPzm8/giphy.gif?cid=6c09b952wpunr2lsah8ldqe2qhffi7ycdtr11ct0uh1qro7x&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) 
 
 <h2 align="left">Hello Guys!👋</h2>
 
