@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">WELCOME </h1>
 
-![pgr](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5bDRmdTYxbDV6eDVodzl1amEyNHhzdjBzdWVsbjFtcmVoMzNmNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kl1vqKpW267DZTUUC5/giphy.gif)
+![pgr](https://giphy.com/gifs/kl1vqKpW267DZTUUC5)
 
 <h2 align="left">Hello Guys!👋</h2>
 
