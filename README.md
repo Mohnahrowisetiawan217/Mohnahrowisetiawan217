@@ -33,7 +33,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNT
 
 <br clear="both">
 
-<h3 align="left">About me 🤔</h3>
+<h2 align="left">About me 🤔</h2>
 
 ###
 
