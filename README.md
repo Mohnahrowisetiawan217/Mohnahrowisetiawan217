@@ -87,8 +87,8 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNT
 ###
 
 <h4 align="left">
-  Instagram: [@rexiusxd.217](https://www.instagram.com/rexiusxd.217/)  
-  
+Instagram: [@rexiusxd.217](https://www.instagram.com/rexiusxd.217/)  
+
 Youtube: (Coming soon) 
 Itch: (Coming soon) 
 Discord: rexiusxd2178
