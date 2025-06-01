@@ -87,12 +87,12 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNT
 ###
 
 <h4 align="left">
-Instagram: [@rexiusxd.217](https://www.instagram.com/rexiusxd.217/)  
 
-Youtube: (Coming soon) 
-Itch: (Coming soon) 
-Discord: rexiusxd2178
-</h4>
+<h4 align="left">  
+<h4>Instagram: Rexius.217
+<br>Youtube:(Coming Soon) 
+<br>Itch:(Coming Soon)
+<br>Discord:(Coming Soon)
 
 ###
 
