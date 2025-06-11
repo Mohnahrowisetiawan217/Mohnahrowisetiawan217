@@ -70,13 +70,16 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNT
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/rexiusxd.217/" target="_blank">
+  <a href="https://www.instagram.com/nahowi.pres2045/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/@rexiusxd2178" target="_blank">
+  <a href="https://discord.gg/cWDZTXuaPC" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <a href="linkYT" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="LinkItchIo" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
 </div>
 
@@ -93,18 +96,6 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNT
 <br>Youtube:(Coming Soon) 
 <br>Itch:(Coming Soon)
 <br>Discord:(Coming Soon)
-
-###
-
-<h2 align="left">Post</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=Mohnahrowisetiawan217&theme=discord_old_blurple" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
