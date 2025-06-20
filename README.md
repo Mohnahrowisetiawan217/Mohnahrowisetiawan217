@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ###
 
 <img align="left" 
-height="140" 
+height="160" 
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNTNsa3A4Y2k3M3ZjNjVlaHh5N3B0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vG750e0KhjlxyUNnQY/giphy.gif"  />
 
 ###
