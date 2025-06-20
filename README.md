@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- ![welcome](linkGif) -->
 
-<p align="left">
+<p align="center">
   <img src="https://media2.giphy.com/media/vjIYBPDACeL4998Wl4/giphy.gif?cid=6c09b952v80uuj4kwtepqbpxo35h7zjbwj8wze0m5psj1hh1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="welcome" />
 </p>
 
