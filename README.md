@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <img align="left" 
 height="160" 
-src="https://tenor.com/id/view/bangboo-zenless-wave-proxy-zenless-zone-zero-gif-15992137574186692704"  />
+src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDZ1Y2NxbG1sNGV6YW90aWZ6aXB3Y3hoaXJmcWIxNngzd21kdTZxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xhzwQoNGahYpJIiTVs/giphy.gif"  />
 
 ###
 
