@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- ![welcome](linkGif) -->
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/vjIYBPDACeL4998Wl4/giphy.gif?cid=6c09b952v80uuj4kwtepqbpxo35h7zjbwj8wze0m5psj1hh1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="welcome" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMjk1bmwzNzJoY3pkOXpzazh3ZXlobmd0ZTB1dXVzNDFqeWdwd2FvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRouJhQpbhPzTJ2eBU/giphy.gif" />
 </p>
 
 <h2 align="left">Hello Guys!👋</h2>
