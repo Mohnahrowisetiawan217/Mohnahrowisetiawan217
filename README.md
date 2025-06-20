@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <img align="left" 
 height="160" 
-src="https://tenor.com/id/view/miyabi-spin-kuru-zenless-zone-zero-zzz-gif-3406144429173650701"  />
+src="https://tenor.com/id/view/bangboo-zenless-wave-proxy-zenless-zone-zero-gif-15992137574186692704"  />
 
 ###
 
