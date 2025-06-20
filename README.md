@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <img align="left" 
 height="160" 
-src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDZ1Y2NxbG1sNGV6YW90aWZ6aXB3Y3hoaXJmcWIxNngzd21kdTZxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xhzwQoNGahYpJIiTVs/giphy.gif"  />
+src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydGRhbjUyZXMxMnpjd3lya3lqNTF6bmt2dmxyMXdxNWVlbjl5ZXAzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vG750e0KhjlxyUNnQY/giphy.gif"  />
 
 ###
 
