@@ -42,17 +42,17 @@ src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydGRhbjUyZXMxMnpjd3lya3lqN
 ###
 
 <h4 align="left">My name is Mohammad Nahrowi Setiawan
-<br>  📍 I'm from Indonesia 🙏🗿
-<br>  📚 Currently learning Python & Javascript
-<br>  🎯 Goal: make games & websites
+<br>  📍 I'm from Konoha 🇮🇩
+<br>  📚 Currently learning Python
+<br>  🎯 Goal: make games & Ai
 
-<br>You always Will Need Coffee ☕🗿</h4>
+<br>You always Will Need Coffee ☕</h4>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">I code with 💻</h2>
+<h2 align="left">I Using 💻</h2>
 
 ###
 
