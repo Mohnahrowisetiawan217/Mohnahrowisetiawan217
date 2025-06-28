@@ -61,8 +61,6 @@ src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydGRhbjUyZXMxMnpjd3lya3lqN
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="[pycharm logo]"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="[javascript logo]"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="[godot logo]"/>
 </div>
 
