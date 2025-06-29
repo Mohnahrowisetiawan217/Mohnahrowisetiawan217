@@ -86,23 +86,32 @@ src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydGRhbjUyZXMxMnpjd3lya3lqN
 
 ###
 
-<h2 align="left">My Github Stats</h2>
+## My GitHub Stats
 
-###
+<div align="center">
+  
+### 📊 Language Stats & Streak
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohnahrowisetiawan217&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="180" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=Mohnahrowisetiawan217&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
 
-<br clear="both">
+### 📈 GitHub Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohnahrowisetiawan217&radius=16&theme=github-dark&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" width="100%" alt="GitHub Activity Graph" />
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohnahrowisetiawan217&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mohnahrowisetiawan217&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=20&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohnahrowisetiawan217&radius=15&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=Mohnahrowisetiawan217&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohnahrowisetiawan217.Mohnahrowisetiawan217&left_color=black"  />
-</div>
+### Alternative Visitor Badge Options:
+```markdown
+<!-- Option 1: Komarev (Most Reliable) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Mohnahrowisetiawan217&color=brightgreen&style=for-the-badge)
 
-###
+<!-- Option 2: Profile Counter -->
+![](https://hit.yhype.me/github/profile?user_id=Mohnahrowisetiawan217)
 
+<!-- Option 3: Simple Counter -->
+![Visitor Count](https://profile-counter.glitch.me/Mohnahrowisetiawan217/count.svg)
+```
