@@ -1,85 +1,59 @@
-<h1 align="center">Welcome</h1>
+# Hi there, I'm Mohammad Nahrowi Setiawan 👋
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTU5YjFtaWsycjNyMGc3N2Via2RhZjQ4Z3loMnhzeDN6NmJla244aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vjIYBPDACeL4998Wl4/giphy.gif" />
-</p>
-
-<h2 align="left">Hello Guys!👋</h2>
-
-###
-
-<img align="left" 
-height="160" 
-src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydGRhbjUyZXMxMnpjd3lya3lqNTF6bmt2dmxyMXdxNWVlbjl5ZXAzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vG750e0KhjlxyUNnQY/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<h2 align="left">About me 🤔</h2>
-
-###
-
-<h4 align="left">My name is Mohammad Nahrowi Setiawan
-<br>📍 I'm from Indonesia 🇮🇩
-<br>📚 Currently learning Python
-<br>🎯 Goal: make AI & games
-<br><br>You always Will Need Coffee ☕</h4>
-
-###
-
-<br clear="both">
-
-<h2 align="left">I Using 💻</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%26+Game+Developer;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-###
+## 🚀 About Me
 
-<h2 align="left">Socials 👀</h2>
+- 🔭 Currently working on **AI projects and game development**
+- 🌱 Learning **Python, Machine Learning, and Game Development**
+- 🎯 Goal: **Create innovative AI solutions and engaging games**
+- 📍 Based in **Indonesia** 🇮🇩
+- ☕ Fueled by **coffee** and curiosity
 
-###
+## 🛠️ Tech Stack
 
-<div align="left">
-  <a href="https://www.instagram.com/nahowi.pres2045/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://discord.gg/cWDZTXuaPC" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo" />
-  </a>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+
 </div>
 
-###
+## 📊 GitHub Analytics
 
-<h2 align="left">My GitHub Stats</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohnahrowisetiawan217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohnahrowisetiawan217&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohnahrowisetiawan217&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahowi.pres2045/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cWDZTXuaPC)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](#)
+
+</div>
+
+## 📈 Profile Stats
 
 <div align="center">
   
-### 📊 Language Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohnahrowisetiawan217&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="200" alt="Top Languages" />
-
-### 📈 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohnahrowisetiawan217&radius=16&theme=github-dark&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" width="100%" alt="GitHub Activity Graph" />
-
-### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=Mohnahrowisetiawan217&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+[![Profile Views](https://komarev.com/ghpvc/?username=Mohnahrowisetiawan217&color=blue&style=for-the-badge&label=Profile+Views)](https://github.com/Mohnahrowisetiawan217)
 
 </div>
 
-###
+---
+
+<div align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
