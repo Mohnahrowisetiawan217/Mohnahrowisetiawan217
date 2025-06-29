@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 PLAYER PROFILE
+## 🧑‍💻 USER PROFILE
 
 <table align="center">
   <tr>
@@ -40,7 +40,7 @@
 
 ---
 
-## 🏆 GAME STATS
+## 🏆 MY STATS
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohnahrowisetiawan217&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 SOCIAL ARENA
+## 🌐 SOCIAL 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nahowi.pres2045/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cWDZTXuaPC)
@@ -80,15 +80,6 @@ me.start_quest()
 
 ---
 
-## 🏅 ACHIEVEMENTS
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mohnahrowisetiawan217&style=for-the-badge&color=brightgreen&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Mohnahrowisetiawan217?style=for-the-badge&color=blue&labelColor=black)](https://github.com/Mohnahrowisetiawan217)
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
----
-
 ### 💬 <span style="color:#00D9FF;">"Code your destiny. Every line is a new adventure!"</span>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
@@ -96,4 +87,3 @@ me.start_quest()
 **⭐ Don’t forget to star my repos if you like them! Power up my journey!**
 
 </div>
-sss
