@@ -10,6 +10,7 @@
 ---
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## 🧑‍💻 USER PROFILE
 
 <table align="center">
@@ -34,6 +35,11 @@
 ---
 =======
 ![a](![https://tenor.com/TkSz72Km7K.gif](https://tenor.com/TkSz72Km7K.gif))
+=======
+![a](![https://tenor.com/TkSz72Km7K.gif](https://tenor.com/TkSz72Km7K.gif))
+
+<h1 align="left">Hello Guys!👋</h1>
+>>>>>>> Stashed changes
 
 <h1 align="left">Hello Guys!👋</h1>
 >>>>>>> Stashed changes
