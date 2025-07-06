@@ -9,6 +9,7 @@
 
 ---
 
+<<<<<<< Updated upstream
 ## 🧑‍💻 USER PROFILE
 
 <table align="center">
@@ -31,11 +32,54 @@
 </table>
 
 ---
+=======
+![a](![https://tenor.com/TkSz72Km7K.gif](https://tenor.com/TkSz72Km7K.gif))
+
+<h1 align="left">Hello Guys!👋</h1>
+>>>>>>> Stashed changes
 
 ## 🎨 SKILLS & LOADOUT
 
+<<<<<<< Updated upstream
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,godot,vscode,pycharm,git,github" />
+=======
+<img align="left" 
+height="150" 
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd4dXpuOGZmbmR6eDVpOXlxNTNsa3A4Y2k3M3ZjNjVlaHh5N3B0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vG750e0KhjlxyUNnQY/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<h2 align="left">About me 🤔</h2>
+
+###
+
+<h4 align="left">My name is Mohammad Nahrowi Setiawan
+<br>  📍 I'm from Indonesia 🙏🗿
+<br>  📚 Currently learning Python & Javascript
+<br>  🎯 Goal: make games & websites
+
+<br>You always Will Need Coffee ☕🗿</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="left">I code with 💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="[python logo]"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="[pycharm logo]"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="[javascript logo]"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="[godot logo]"/>
+>>>>>>> Stashed changes
 </div>
 
 ---
