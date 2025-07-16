@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td><b>🗺️ Origin</b></td>
-    <td>Indonesia</td>
+    <td>Konoha(Indonesia)</td>
   </tr>
   <tr>
     <td><b>🎮 Main Class</b></td>
